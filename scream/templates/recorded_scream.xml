@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+  <Say>This is your scream. There are many like it, but this one is yours.</Say>
+  <Play>{{url}}</Play>
+  <Say>Thank you for using Scream Phone. It's the screamiest!</Say>
+</Response>

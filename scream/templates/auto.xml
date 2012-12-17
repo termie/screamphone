@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+  <Gather timeout="20" numDigits="1" action="/twilio/auto">
+    <Say>Welcome to Scream Phone.
+      Press 1 if you would like to hear a scream.
+      Press 2 if you would like to record a scream.
+    </Say>
+  </Gather>
+</Response>
