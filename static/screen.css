@@ -1,0 +1,83 @@
+#welcome-to {
+  font-family: "Parisienne", cursive;
+  font-size: 24px;
+  position: relative;
+  top: 20px;
+  left: -140px;
+  /*left: 55px;*/
+  /*text-align: center;*/
+  /*color: black;*/
+  /*border: 1px solid black;*/
+}
+#scream-big {
+  /*margin-top: 15px;*/
+  font-family: "Limelight", cursive;
+  font-size: 100px;
+  line-height: 80px;
+  letter-spacing: -4px;
+  font-variant: small-caps;
+  /*text-align: center;*/
+  /*color: black;*/
+  /*border: 1px solid black;*/
+  /*background-color: grey;*/
+}
+#purveyors {
+  font-family: "Parisienne", cursive;
+  font-size: 18px;
+  position: relative;
+  top: -5px;
+  left: 160px;
+}
+
+#number {
+  font-size: 64px;
+  font-family: "limelight", cursive;
+  color: white;
+  line-height: 64px;
+  margin-top: 100px;
+  /*border: 1px solid black;*/
+}
+
+#number a {
+  color: white;
+}
+
+body {
+  /*[> Safari 4-5, Chrome 1-9 <]*/
+  /*background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#1a82f7), to(#2F2727));*/
+
+  /*[> Safari 5.1, Chrome 10+ <]*/
+  /*background: -webkit-linear-gradient(top, #AA0000, #2F2727);*/
+
+  /*[> Firefox 3.6+ <]*/
+  /*background: -moz-linear-gradient(top, #2F2727, #1a82f7);*/
+
+  /*[> IE 10 <]*/
+  /*background: -ms-linear-gradient(top, #2F2727, #1a82f7);*/
+
+  /*[> Opera 11.10+ <]*/
+  /*background: -o-linear-gradient(top, #2F2727, #1a82f7);*/
+
+}
+
+#header {
+  text-align: center;
+  /* Safari 5.1, Chrome 10+ */
+  background: -webkit-linear-gradient(top, #FFFFFF, #555555);
+  min-height: 400px;
+  /*height: 100%;*/
+  padding-top: 50px;
+}
+
+#main {
+  /*border: 1px solid black;*/
+  text-align: center;
+  margin-top: 20px;
+  min-height: 600px;
+  background-image: url('/static/palms_light.jpg');
+  /*background-size: 500px 500px;*/
+  background-repeat: no-repeat;
+  background-position: right bottom;
+
+
+}
